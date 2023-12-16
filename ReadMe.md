@@ -10,7 +10,7 @@ Merhaba, ben Furkan. Yazılım geliştirme, siber güvenlik ve Android Stüdyo i
 📫 İletişim:<br>
 - Mail: furkanaslan1209@gmail.com<br>
 - LinkedIn: [LinkedIn Profilim](https://www.linkedin.com/in/furkan-aslan-a2124423a)<br>
-
+<br>
 💫 Teşekkür ederim ve projelerime göz atmanızı bekliyorum! 😊<br>
 
 
