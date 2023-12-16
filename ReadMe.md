@@ -3,15 +3,14 @@ Merhaba! 👋<br>
 🔭 Zonguldak Bülent Ecevit Üniversitesi'nde bilgisayar mühendisliği 3.sınıf öğrenciyim.<br>
 👯 Ekip işlerinden keyif alırım. orange-hat-X adlı organizasyonumuzdan yaptığımız işlere göz atmalısınız.<br>
 🌱 Python ile yazılım geliştirme, Android Stüdyo ve Kotlin ile mobil uygulama geliştirme ve Siber Güvenlik ile ilgileniyorum.<br>
+✨ Yeni projelerde işbirliği yapmaya her zaman açığım.<br>
 <br>
 Merhaba, ben Furkan. Yazılım geliştirme, siber güvenlik ve Android Stüdyo ile uygulama geliştirme konularında ilgiliyim. Python konusunda orta ve ileri seviyede bilgi sahibiyim. Siber güvenlik alanında Linux ve CEH eğitimi, Sızma testi ve Yetki Yükseltme, Tersine Mühendislik ve Web güvenliği eğitimlerini profosyonel şirketler tarafından aldım. Android Stüdyo ile başladığımız mobil uygulama keriyerimi orange-hat-X adlı organizasyonumuzda ekip arkadaşımla beraber kendimizi geliştirmeye devam ediyoruz.<br><br>
-💬 Bana herhangi bir soru sormaktan çekinmeyin!<br><br>
+💬 Daha fazla bilgi edinmek veya iletişim kurmak için mail gönderebilirsiniz. Bana herhangi bir soru sormaktan çekinmeyin!<br><br>
 📫 İletişim:<br>
 - Mail: furkanaslan1209@gmail.com<br>
 - LinkedIn: [LinkedIn Profilim](https://www.linkedin.com/in/furkan-aslan-a2124423a)<br>
-
-✨ Yeni projelerde işbirliği yapmaya her zaman açığım. Daha fazla bilgi edinmek veya iletişim kurmak için GitHub veya LinkedIn profilime göz atabilirsiniz.<br>
-Teşekkür ederim ve projelerime göz atmanızı bekliyorum! 😊<br>
+💫 Teşekkür ederim ve projelerime göz atmanızı bekliyorum! 😊<br>
 
 
 
