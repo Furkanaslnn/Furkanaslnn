@@ -4,7 +4,7 @@ Merhaba! 👋<br>
 👯 Ekip işlerinden keyif alırım. orange-hat-X adlı organizasyonumuzdan yaptığımız işlere göz atmalısınız.<br>
 🌱 Python ile yazılım geliştirme, Android Stüdyo ve Kotlin ile mobil uygulama geliştirme ve Siber Güvenlik ile ilgileniyorum.<br>
 <br>
-Merhaba, ben Furkan. Yazılım geliştirme, siber güvenlik ve Android Stüdyo ile uygulama geliştirme konularında ilgiliyim. Python konusunda orta ve ileri seviyede bilgi sahibiyim. Siber güvenlik alanında Linux ve CEH eğitimi, Sızma testi ve Yetki Yükseltme, Tersine Mühendislik ve Web güvenliği eğitimlerini profosyonel şirketler tarafından aldım. Android Stüdyo ile orange-hat-X adlı organizasyonumuzda ekip arkadaşımla beraber kendimizi geliştirmeye devam ediyoruz.<br><br>
+Merhaba, ben Furkan. Yazılım geliştirme, siber güvenlik ve Android Stüdyo ile uygulama geliştirme konularında ilgiliyim. Python konusunda orta ve ileri seviyede bilgi sahibiyim. Siber güvenlik alanında Linux ve CEH eğitimi, Sızma testi ve Yetki Yükseltme, Tersine Mühendislik ve Web güvenliği eğitimlerini profosyonel şirketler tarafından aldım. Android Stüdyo ile başladığımız mobil uygulama keriyerimi orange-hat-X adlı organizasyonumuzda ekip arkadaşımla beraber kendimizi geliştirmeye devam ediyoruz.<br><br>
 💬 Bana herhangi bir soru sormaktan çekinmeyin!<br><br>
 📫 İletişim:<br>
 - Mail: furkanaslan1209@gmail.com<br>
