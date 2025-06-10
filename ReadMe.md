@@ -4,6 +4,7 @@ Full-stack geliştirici olarak React, Next.js ve React Native - Expo kullanarak 
 
 ## 🌐 Sosyal Medya
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkan-aslan-a2124423a/)
+[![WebSite](https://img.shields.io/badge/WebSite-8A2BE2)](https://www.furkanaslan.vercel.app)
 
 ## 💻 Teknoloji Yığını
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
