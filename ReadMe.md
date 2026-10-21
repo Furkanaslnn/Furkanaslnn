@@ -6,24 +6,47 @@
 
 ![Version](https://img.shields.io/badge/version-v1.0.0-FF6C37?style=flat-square) ![Status](https://img.shields.io/badge/status-online-2EA043?style=flat-square) ![Format](https://img.shields.io/badge/format-JSON-0E7AFE?style=flat-square) ![Auth](https://img.shields.io/badge/auth-herkese_açık-8A2BE2?style=flat-square)
 
+**Mid-Level Full-Stack Yazılım Geliştirici** · 📍 Samsun, Türkiye
+
+Web ve mobil uygulamalar, sunucu mimarisi (Docker · Nginx · VPS), otomasyon ve yapay zeka entegrasyonları, SEO ve UI/UX.
+
+[![WebSite](https://img.shields.io/badge/WebSite-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://furkanaslan.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Furkanaslnn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkanaslnn)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/developer?id=OrangeHat+Digital&hl=tr)
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,py,vite,redux,tailwind,html,css,figma,docker,nginx,git,mysql,firebase,postman&perline=9" />
+
+<br /><br />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Furkanaslnn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furkanaslnn&theme=tokyonight&hide_border=true&layout=compact" height="165" />
+
+<img src="https://streak-stats.demolab.com?user=Furkanaslnn&theme=tokyonight&hide_border=true" />
+
 </div>
 
-## 📚 Ben Kimim?
+---
+
+## 📚 API Dokümanı
+
+Beni tanımak için bir API gibi sorgulayabilirsin. Her endpoint için **istek**, **ham JSON cevap** ve cevabın **görsel hali** var. Detayını görmek için başlıklara tıkla 👇
 
 **Base URL:** `https://furkanaslan.vercel.app/api/v1`
 
 | # | Endpoint | Ne işe yarar? |
 |---|---|---|
-| 1 | [`GET /kimdir/furkan`](#kimdir) | Furkan kimdir? Kısa tanıtım ve odak alanları |
-| 2 | [`GET /yetenekler`](#yetenekler) | Kullandığı teknolojiler ve araçlar |
-| 3 | [`GET /deneyim`](#deneyim) | Çalıştığı yerler ve stajlar |
-| 4 | [`GET /egitim`](#egitim) | Üniversite eğitimi |
-| 5 | [`GET /sertifikalar`](#sertifikalar) | Aldığı sertifikalar ve katıldığı programlar |
-| 6 | [`GET /iletisim`](#iletisim) | Ona nasıl ulaşılır |
+| 1 | `GET /kimdir/furkan` | Furkan kimdir? Kısa tanıtım ve odak alanları |
+| 2 | `GET /yetenekler` | Kullandığı teknolojiler ve araçlar |
+| 3 | `GET /deneyim` | Çalıştığı yerler ve stajlar |
+| 4 | `GET /egitim` | Üniversite eğitimi |
+| 5 | `GET /sertifikalar` | Aldığı sertifikalar ve katıldığı programlar |
+| 6 | `GET /iletisim` | Ona nasıl ulaşılır |
 
-<a id="kimdir"></a>
+<details>
+<summary><b>1 · Furkan kimdir?</b> — <code>GET /api/v1/kimdir/furkan</code></summary>
 
-## 1 · Furkan kimdir?
+<br />
 
 > 📝 **Ne işe yarar?** Furkan'ı kısaca tanıtır: kim olduğu, ne yaptığı ve hangi alanlara odaklandığı.
 >
@@ -41,8 +64,6 @@ User-Agent: Merakli-Ziyaretci/1.0
 ### 📥 Response
 
 ![Status](https://img.shields.io/badge/Status-200_OK-2EA043?style=flat-square) ![Time](https://img.shields.io/badge/Time-42_ms-0E7AFE?style=flat-square) ![Size](https://img.shields.io/badge/Size-1.1_KB-FF6C37?style=flat-square)
-
-`Body` `Cookies` `Headers (5)` `Test Results (4/4)`
 
 ```json
 {
@@ -79,10 +100,7 @@ User-Agent: Merakli-Ziyaretci/1.0
 | `data` | Asıl bilgi burada: isim, unvan, özet ve odak alanları |
 | `meta` | Ek bilgi: sürüm numarası ve diğer endpoint'lerin listesi |
 
-<details open>
-<summary><b>Headers (5)</b></summary>
-
-_Cevapla birlikte gelen ek bilgiler: format, kullanılan teknolojiler ve geliştirici._
+**Headers (5)**
 
 ```http
 HTTP/1.1 200 OK
@@ -92,12 +110,7 @@ X-Deployed-With: Docker, Nginx, VPS
 X-Developer: Furkan Aslan
 ```
 
-</details>
-
-<details open>
-<summary><b>Test Results (4/4)</b></summary>
-
-_Cevabın beklenen özellikleri taşıyıp taşımadığını kontrol eden testler._
+**Test Results (4/4)**
 
 ```text
 PASS  Status code is 200
@@ -106,44 +119,42 @@ PASS  Otomasyon ve yapay zeka entegrasyonları çalışıyor
 PASS  UI/UX ve SEO standartları karşılanıyor
 ```
 
-</details>
-
-## 👁️ Visualize
-
-> 🖼️ **Ne işe yarar?** Cevabı JSON okumadan, görsel olarak gösterir: hızlı bağlantılar ve kullandığı teknolojilerin ikonları.
+### 👁️ Visualize
 
 <div align="center">
 
-[![WebSite](https://img.shields.io/badge/WebSite-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://furkanaslan.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkanaslnn)
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/developer?id=OrangeHat+Digital&hl=tr)
+<h3>👋 Furkan Aslan <sub>@Furkanaslnn</sub></h3>
 
-
-<br />
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,py,vite,redux,tailwind,html,css,figma,docker,nginx,git,mysql,firebase,postman&perline=9" />
+**Mid-Level Full-Stack Yazılım Geliştirici** · 📍 Samsun, Türkiye
 
 </div>
 
-## 📁 Collection
+> Küçük işletmelerden kurumsal yapılara kadar uzanan projelerde uçtan uca sorumluluk alıyorum. React, Next.js ve Node.js ekosistemlerinde web ve mobil uygulamalar geliştirirken sunucu mimarisini (Docker, Nginx, VPS) ve deployment süreçlerini bizzat kuruyorum. Yazılım süreçlerini otomasyon ve yapay zeka entegrasyonlarıyla hızlandırıyor; teknik bilgimi SEO, büyüme stratejileri ve güçlü UI/UX standartlarıyla birleştirerek kullanıcı odaklı ve ticari değer üreten dijital ürünler inşa ediyorum.
 
-Diğer endpoint'ler. Her biri ayrı bir soruyu cevaplıyor.
+![Full-Stack](https://img.shields.io/badge/Full--Stack_Web_%26_Mobil-FF6C37?style=for-the-badge) ![Sunucu](https://img.shields.io/badge/Sunucu_Mimarisi_%26_Deployment-0E7AFE?style=for-the-badge) ![AI](https://img.shields.io/badge/Otomasyon_%26_Yapay_Zeka-8A2BE2?style=for-the-badge) ![UIUX](https://img.shields.io/badge/UI%2FUX_%26_SEO-2EA043?style=for-the-badge)
 
-<a id="yetenekler"></a>
+</details>
 
-### 2 · Yetenekler
+<details>
+<summary><b>2 · Yetenekler</b> — <code>GET /api/v1/yetenekler</code></summary>
+
+<br />
 
 > 📝 **Ne işe yarar?** Furkan'ın kullandığı teknolojileri ve araçları kategorilere ayırarak listeler.
 >
-> 📦 **Ne döner?** Frontend & mobil, backend & veritabanı, DevOps, otomasyon & yapay zeka ve metodoloji listeleri. Altında hepsinin ikonlu hali var.
+> 📦 **Ne döner?** Frontend & mobil, backend & veritabanı, DevOps, otomasyon & yapay zeka ve metodoloji listeleri.
 
-<details open>
-<summary><b>GET</b> <code>/api/v1/yetenekler</code> — <code>200 OK</code></summary>
+### 📤 Request
 
 ```http
 GET /api/v1/yetenekler HTTP/1.1
 Host: furkanaslan.vercel.app
+Accept: application/json
 ```
+
+### 📥 Response
+
+![Status](https://img.shields.io/badge/Status-200_OK-2EA043?style=flat-square) ![Time](https://img.shields.io/badge/Time-38_ms-0E7AFE?style=flat-square) ![Size](https://img.shields.io/badge/Size-1.0_KB-FF6C37?style=flat-square)
 
 ```json
 {
@@ -158,6 +169,8 @@ Host: furkanaslan.vercel.app
   }
 }
 ```
+
+### 👁️ Visualize
 
 **Frontend & Mobil**
 
@@ -187,23 +200,26 @@ Host: furkanaslan.vercel.app
 
 </details>
 
----
+<details>
+<summary><b>3 · Deneyim</b> — <code>GET /api/v1/deneyim</code></summary>
 
-<a id="deneyim"></a>
-
-### 3 · Deneyim
+<br />
 
 > 📝 **Ne işe yarar?** Furkan'ın çalıştığı yerleri ve stajlarını, rolleriyle ve tarihleriyle birlikte gösterir.
 >
 > 📦 **Ne döner?** 4 kayıt: şirket, sektör, rol, çalışma dönemi ve yaptığı işlerin özeti.
 
-<details open>
-<summary><b>GET</b> <code>/api/v1/deneyim</code> — <code>200 OK</code></summary>
+### 📤 Request
 
 ```http
 GET /api/v1/deneyim HTTP/1.1
 Host: furkanaslan.vercel.app
+Accept: application/json
 ```
+
+### 📥 Response
+
+![Status](https://img.shields.io/badge/Status-200_OK-2EA043?style=flat-square) ![Time](https://img.shields.io/badge/Time-40_ms-0E7AFE?style=flat-square) ![Size](https://img.shields.io/badge/Size-1.3_KB-FF6C37?style=flat-square)
 
 ```json
 {
@@ -257,25 +273,53 @@ Host: furkanaslan.vercel.app
 }
 ```
 
+### 👁️ Visualize
+
+| Şirket | Rol | Dönem | Konum |
+|---|---|---|---|
+| **NGSTech**<br><sub>Yazılım Geliştirme Firması</sub> | Full-Stack Yazılım Geliştirici | 08/2025 – 08/2026 | — |
+| **Whyblue**<br><sub>Dijital Reklam Ajansı</sub> | Dijital Proje Yöneticisi & Geliştirici | 01/2026 – 08/2026 | — |
+| **Mobillium**<br><sub>Digital Product & Experience Studio</sub> | Android Geliştirici (Staj) | 07/2024 – 08/2024 | İstanbul |
+| **CyberNova**<br><sub>Siber Güvenlik Şirketi</sub> | Siber Güvenlik ve Yazılım Geliştirici (Staj) | 08/2024 – 09/2024 | Samsun |
+
+**NGSTech**
+- Üniversiteler, belediyeler ve özel sektör firmaları için uçtan uca yazılım çözümleri
+- Mimari tasarımdan sunucu kurulumuna projelerin tüm yaşam döngüsünde aktif rol
+- Yapay zekanın geliştirme sürecinde aktif asistan olarak kullanılması
+
+**Whyblue**
+- Kurumsal markaların yazılım gereksinimleri ve dijital pazarlama operasyonlarının yönetimi
+- Yazılım geliştirmenin kullanıcı deneyimi ve dijital büyüme hedefleriyle birleştirilmesi
+
+**Mobillium**
+- Android uygulama geliştirme temelleri
+
+**CyberNova**
+- Kriptografi ve uygulama geliştirme
+- Güvenlik temelli algoritmaların gerçek projelere entegrasyonu
+
 </details>
 
----
+<details>
+<summary><b>4 · Eğitim</b> — <code>GET /api/v1/egitim</code></summary>
 
-<a id="egitim"></a>
-
-### 4 · Eğitim
+<br />
 
 > 📝 **Ne işe yarar?** Furkan'ın üniversite eğitimini gösterir.
 >
 > 📦 **Ne döner?** Bölüm, üniversite, şehir, mezuniyet tarihi ve eğitimde odaklandığı konular.
 
-<details open>
-<summary><b>GET</b> <code>/api/v1/egitim</code> — <code>200 OK</code></summary>
+### 📤 Request
 
 ```http
 GET /api/v1/egitim HTTP/1.1
 Host: furkanaslan.vercel.app
+Accept: application/json
 ```
+
+### 📥 Response
+
+![Status](https://img.shields.io/badge/Status-200_OK-2EA043?style=flat-square) ![Time](https://img.shields.io/badge/Time-35_ms-0E7AFE?style=flat-square) ![Size](https://img.shields.io/badge/Size-0.3_KB-FF6C37?style=flat-square)
 
 ```json
 {
@@ -291,25 +335,39 @@ Host: furkanaslan.vercel.app
 }
 ```
 
+### 👁️ Visualize
+
+| | |
+|---|---|
+| 🎓 **Bölüm** | Bilgisayar Mühendisliği |
+| 🏫 **Üniversite** | Zonguldak Bülent Ecevit Üniversitesi |
+| 📍 **Şehir** | Zonguldak |
+| 📅 **Mezuniyet** | 06/2025 |
+
+![Yazılım geliştirme](https://img.shields.io/badge/Yazılım_geliştirme-FF6C37?style=for-the-badge) ![Veri güvenliği](https://img.shields.io/badge/Veri_güvenliği-0E7AFE?style=for-the-badge) ![Proje yönetimi](https://img.shields.io/badge/Proje_yönetimi-2EA043?style=for-the-badge)
+
 </details>
 
----
+<details>
+<summary><b>5 · Sertifikalar</b> — <code>GET /api/v1/sertifikalar</code></summary>
 
-<a id="sertifikalar"></a>
-
-### 5 · Sertifikalar
+<br />
 
 > 📝 **Ne işe yarar?** Furkan'ın aldığı sertifikaları ve katıldığı eğitim ve girişimcilik programlarını listeler.
 >
 > 📦 **Ne döner?** 4 kayıt: program adı, tarihi, düzenleyen kurum ve içeriği.
 
-<details open>
-<summary><b>GET</b> <code>/api/v1/sertifikalar</code> — <code>200 OK</code></summary>
+### 📤 Request
 
 ```http
 GET /api/v1/sertifikalar HTTP/1.1
 Host: furkanaslan.vercel.app
+Accept: application/json
 ```
+
+### 📥 Response
+
+![Status](https://img.shields.io/badge/Status-200_OK-2EA043?style=flat-square) ![Time](https://img.shields.io/badge/Time-37_ms-0E7AFE?style=flat-square) ![Size](https://img.shields.io/badge/Size-1.0_KB-FF6C37?style=flat-square)
 
 ```json
 {
@@ -348,25 +406,46 @@ Host: furkanaslan.vercel.app
 }
 ```
 
+### 👁️ Visualize
+
+| Program | Tarih | Detay |
+|---|---|---|
+| **Siber Vatan BootCamp** | Temmuz 2023 | 📍 Antalya · 10 günlük yoğun eğitim; Trendyol, Barikat, Cyrops ve BG-TEK yöneticilerinin konferans ve etkinlikleri |
+| **Siber Vatan Eğitim Sertifikası** | Kasım 2022 – Eylül 2023 | 4 modül (aşağıda) |
+| **STARTUP 2025 Girişimcilik Maratonu** | 25-27 Nisan 2025 | Zonguldak Teknopark & Marmara Teknokent · Katılımcı |
+| **KOSGEB Girişimcilik Eğitimi** | 03.12.2024 | Online |
+
+**Siber Vatan Eğitim Sertifikası modülleri**
+
+| Sağlayıcı | Konu |
+|---|---|
+| CYROPS | Linux ve CEH |
+| BG-TEK | Sızma Testi ve Yetki Yükseltme |
+| BARİKAT | Tersine Mühendislik |
+| Siber Vatan | Web Güvenliği |
+
 </details>
 
----
+<details>
+<summary><b>6 · İletişim</b> — <code>GET /api/v1/iletisim</code></summary>
 
-<a id="iletisim"></a>
-
-### 6 · İletişim
+<br />
 
 > 📝 **Ne işe yarar?** Furkan'a nereden ulaşabileceğini gösterir.
 >
-> 📦 **Ne döner?** E-posta, web sitesi, GitHub, LinkedIn ve Google Play adresleri. Tıklanabilir halleri yukarıdaki Visualize bölümünde.
+> 📦 **Ne döner?** Web sitesi, GitHub, LinkedIn ve Google Play adresleri.
 
-<details open>
-<summary><b>GET</b> <code>/api/v1/iletisim</code> — <code>200 OK</code></summary>
+### 📤 Request
 
 ```http
 GET /api/v1/iletisim HTTP/1.1
 Host: furkanaslan.vercel.app
+Accept: application/json
 ```
+
+### 📥 Response
+
+![Status](https://img.shields.io/badge/Status-200_OK-2EA043?style=flat-square) ![Time](https://img.shields.io/badge/Time-33_ms-0E7AFE?style=flat-square) ![Size](https://img.shields.io/badge/Size-0.4_KB-FF6C37?style=flat-square)
 
 ```json
 {
@@ -381,20 +460,18 @@ Host: furkanaslan.vercel.app
 }
 ```
 
-</details>
-
-## 📊 GitHub İstatistikleri
-
-> 📈 Bu bölüm canlı veridir: GitHub hesabından otomatik çekilir ve kendiliğinden güncellenir.
+### 👁️ Visualize
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Furkanaslnn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furkanaslnn&theme=tokyonight&hide_border=true&layout=compact" height="165" />
-
-<img src="https://streak-stats.demolab.com?user=Furkanaslnn&theme=tokyonight&hide_border=true" />
+[![WebSite](https://img.shields.io/badge/WebSite-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://furkanaslan.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Furkanaslnn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkanaslnn)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/developer?id=OrangeHat+Digital&hl=tr)
 
 </div>
+
+</details>
 
 ---
 
