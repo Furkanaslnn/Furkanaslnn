@@ -1,40 +1,153 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=FF6C37&center=true&vCenter=true&width=700&height=45&lines=GET+%2Fapi%2Fv1%2Fkimdir%2Ffurkan;Mid-Level+Full-Stack+Developer;200+OK+%E2%9C%85)](https://furkanaslan.vercel.app)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=FF6C37&center=true&vCenter=true&width=700&height=45&lines=GET+%2Fapi%2Fv1%2Fkimdir%2Ffurkan;Full-Stack+Developer+%26+Builder;200+OK+%E2%9C%85)](https://furkanaslan.vercel.app)
 
-<h1>Furkan Aslan · Ben Kimim?</h1>
+# 👋 Furkan Aslan
+**Full-Stack Yazılım Geliştirici & Ürün İnşaatçısı (Builder)**  
+📍 Samsun, Türkiye
 
-![Version](https://img.shields.io/badge/version-v1.0.0-FF6C37?style=flat-square) ![Status](https://img.shields.io/badge/status-online-2EA043?style=flat-square) ![Format](https://img.shields.io/badge/format-JSON-0E7AFE?style=flat-square) ![Auth](https://img.shields.io/badge/auth-herkese_açık-8A2BE2?style=flat-square)
+[![Website](https://img.shields.io/badge/WebSite-FF6C37?style=for-the-badge&logo=safari&logoColor=white)](https://furkanaslan.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkanaslnn)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Furkanaslnn)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/developer?id=OrangeHat+Digital&hl=tr)
+
+<br/>
+
+[![Status](https://img.shields.io/badge/Status-200_OK-2EA043?style=flat-square)](#)
+[![Focus](https://img.shields.io/badge/Focus-Web_%26_Mobile_Architecture-0E7AFE?style=flat-square)](#)
+[![Stack](https://img.shields.io/badge/Stack-Next.js_%7C_React_%7C_Node.js_%7C_Docker-FF6C37?style=flat-square)](#)
+[![Co-Founder](https://img.shields.io/badge/Co--Founder-OrangeHat_Digital-FF6600?style=flat-square)](https://orangehatdigital.com.tr)
+
+<br/>
+
+[Hakkımda](#-hakkımda--yazılım-vizyonu) • [Yetkinlikler](#-yetkinlikler--teknolojiler) • [Projeler](#-öne-çıkan-projeler) • [İstatistikler](#-github-i̇statistikleri) • [📡 API Dokümantasyonu](#-api-dokümantasyonu--ham-json-cevapları)
 
 </div>
 
-## 📚 Ben Kimim?
+---
 
-Bu README, bir API dokümanı gibi hazırlandı. Her endpoint için **istek (Request)**, **ham JSON cevap (Response)** ve cevabın işlenip görselleştirilmiş hali (**Visualize**) alt alta gösterilir.
+## 👨‍💻 Hakkımda & Yazılım Vizyonu
 
-**Base URL:** `https://furkanaslan.vercel.app/api/v1`
+> Yazılım hayatımda dijital fikirleri sıfırdan çalışan, ölçeklenebilir ve kullanıcı deneyimi güçlü ürünlere dönüştürmeye odaklanıyorum. **React, Next.js ve Node.js** ekosistemlerinde web ve mobil platformlar geliştirirken; arka planda **sunucu mimarisini (Docker, Nginx, Linux VPS)** ve deployment hatlarını uçtan uca inşa ediyorum.
+> 
+> Tekrarlayan iş süreçlerini **n8n ve yapay zeka (LLM)** entegrasyonlarıyla otomatikleştiriyor; teknik yetkinliklerimi **UI/UX tasarımı**, performans optimizasyonu ve **SEO** ile birleştirerek gerçek dünyada katma değer üreten projeler ortaya koyuyorum.
 
-| # | Endpoint | Ne işe yarar? |
-|---|---|---|
-| 1 | [`GET /kimdir/furkan`](#kimdir) | Furkan kimdir? Kısa tanıtım ve odak alanları |
-| 2 | [`GET /yetenekler`](#yetenekler) | Kullandığı teknolojiler ve araçlar |
-| 3 | [`GET /deneyim`](#deneyim) | Çalıştığı yerler ve stajlar |
-| 4 | [`GET /egitim`](#egitim) | Üniversite eğitimi |
-| 5 | [`GET /sertifikalar`](#sertifikalar) | Aldığı sertifikalar ve katıldığı programlar |
-| 6 | [`GET /iletisim`](#iletisim) | Ona nasıl ulaşılır |
+<div align="center">
+
+![Full-Stack](https://img.shields.io/badge/Full--Stack_Web_%26_Mobil-FF6C37?style=for-the-badge) 
+![Sunucu](https://img.shields.io/badge/Sunucu_Mimarisi_%26_DevOps-0E7AFE?style=for-the-badge) 
+![Otomasyon](https://img.shields.io/badge/Otomasyon_%26_Yapay_Zeka-8A2BE2?style=for-the-badge) 
+![UIUX](https://img.shields.io/badge/UI%2FUX_%26_Performans-2EA043?style=for-the-badge)
+
+</div>
 
 ---
 
-<a id="kimdir"></a>
+## 🛠️ Yetkinlikler & Teknolojiler
 
-## 1 · Furkan kimdir?
+<div align="center">
 
-> 📝 **Ne işe yarar?** Furkan'ı kısaca tanıtır: kim olduğu, ne yaptığı ve hangi alanlara odaklandığı.
->
-> 📦 **Ne döner?** İsim, unvan, konum, kısa özet ve odak alanları (`data`), ayrıca diğer endpoint'lerin listesi (`meta`).
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,py,vite,redux,tailwind,html,css,figma,docker,nginx,git,mysql,firebase,postman&perline=9" />
 
-### 📤 Request
+</div>
 
+<br/>
+
+| Yetkinlik Alanı | Teknolojiler ve Araçlar |
+| :--- | :--- |
+| 🌐 **Frontend & UI/UX** | **Next.js (App Router)**, **React.js**, **TypeScript**, JavaScript (ES6+), **TailwindCSS**, Vite, Redux Toolkit, HTML5, CSS3, Responsive Design, **Figma** |
+| 📱 **Mobil Geliştirme** | **React Native**, Mobil UI Mimarisi, Google Play Console, Native Entegrasyonlar |
+| ⚙️ **Backend & Veritabanı** | **Node.js**, Express, Python, **RESTful API Tasarımı & Entegrasyonu**, **MySQL**, PostgreSQL, Firebase (Firestore, Auth), NoSQL |
+| 🚀 **DevOps & Sunucu** | **Docker**, **Nginx** (Reverse Proxy, SSL), **Linux VPS Yönetimi**, Git, GitHub Actions, Vercel Deployment |
+| 🤖 **Otomasyon & Yapay Zeka** | **n8n İş Akışları**, OpenAI / LLM API Entegrasyonları, Webhook Sistemleri, Instagram & Sosyal Medya Botları |
+| 📈 **Büyüme & Analitik** | Teknik SEO, Google Search Console, Google Analytics, Performans & CWV Optimizasyonu |
+
+---
+
+## 🚀 Öne Çıkan Projeler
+
+<br/>
+
+### 1. 📄 [CV Dijital](https://github.com/orangehatdigital-code/CVDigital) — Akıllı A4 CV Oluşturma Platformu
+> **Teknolojiler:** `Next.js 16` • `TypeScript` • `TailwindCSS v4` • `JSON CMS` • `@media print`  
+> Geliştiricilerin ve profesyonellerin ATS (Aday Takip Sistemi) uyumlu, milimetrik A4 sayfalama hesaplayan ve anlık canlı önizleme sunan açık kaynaklı CV oluşturucu platformu.
+* 📄 **Akıllı Sayfalama Motoru:** Sayfa taşmalarını ve blok yüksekliklerini tarayıcı DPI'ına göre dinamik hesaplar.
+* 🎓 **Çift Şablon Desteği:** Tek tıkla Modern Tech ve Klasik Harvard ATS şablonları arasında geçiş.
+* 📁 **JSON Dosya Tabanlı:** Verileri tarayıcı çerezine bağımlı olmadan doğrudan yerel JSON mimarisinde yönetir.
+
+<br/>
+
+### 2. 👒 [Orange Hat Digital](https://orangehatdigital.com.tr) — Yazılım & Dijital Ürün Stüdyosu
+> **Teknolojiler:** `Next.js` • `React` • `Node.js` • `Docker` • `Nginx` • `TailwindCSS`  
+> İşletmeler ve girişimler için fikir aşamasından yayına kadar uçtan uca modern web, mobil ve otomasyon altyapısı sunan yazılım platformu.
+* 🌐 **Kurumsal & SaaS Mimarisi:** Yüksek hızlı, mobil uyumlu ve SEO puanları tam puan olan modern web platformları.
+* ⚙️ **Uçtan Uca Deployment:** VPS üzerinde Dockerize edilmiş, Nginx ters vekil sunuculu güvenli prodüksiyon altyapısı.
+
+<br/>
+
+### 3. 🍽️ Restoran & Kafe Akıllı QR Menü Sistemi
+> **Teknolojiler:** `React` • `Node.js` • `TailwindCSS` • `REST API` • `Real-Time Data`  
+> Yeme-içme sektörü için anlık fiyat/ürün güncellenebilen, kategorize edilmiş, hızlı ve mobil öncelikli dijital menü çözümü.
+* ⚡ **Anında Erişim:** Müşterilerin uygulama indirmeden saniyeler içinde menüye ve ürün detaylarına ulaşması.
+* 🛠️ **Yönetim Paneli:** İşletmelerin tek tıkla ürün ekleyip çıkarabileceği dinamik yönetim arayüzü.
+
+<br/>
+
+### 4. 🤖 Çok Kanallı AI Chatbot & n8n İş Akışı Otomasyonu
+> **Teknolojiler:** `n8n` • `OpenAI API` • `Instagram Graph API` • `Webhooks` • `Node.js`  
+> İşletmelerin tekrarlayan müşteri iletişimlerini ve veri giriş süreçlerini sıfıra indiren akıllı yapay zeka otomasyonları.
+* 💬 **Yapay Zeka Destekli Yanıt:** Müşteri sorularını doğal dille anlayan ve 7/24 anında doğru bilgi sunan akıllı bot mimarisi.
+* 🔗 **Sistem Entegrasyonu:** Gelen talepleri otomatik olarak CRM, e-posta veya veritabanı kayıtlarına dönüştürme.
+
+<br/>
+
+### 5. 📱 [Google Play Mobil Uygulamaları](https://play.google.com/store/apps/developer?id=OrangeHat+Digital&hl=tr)
+> **Teknolojiler:** `React Native` • `REST API` • `Firebase` • `Android Studio`  
+> Kullanıcı odaklı arayüzlere ve akıcı performansa sahip, Google Play Store üzerinde canlıda olan mobil uygulamalar.
+
+---
+
+## 📊 GitHub İstatistikleri
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Furkanaslnn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furkanaslnn&theme=tokyonight&hide_border=true&layout=compact" height="165" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Furkanaslnn&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<a id="api-dokumantasyonu"></a>
+
+## 📡 API Dokümantasyonu & Ham JSON Cevapları
+
+> 💡 **Geliştiriciler İçin:** Bu profil aynı zamanda sanal bir REST API mimarisi gibi kurgulanmıştır. İstekleri (Request), ham JSON yanıtlarını (Response) ve sistem testlerini görüntülemek için aşağıdaki paneli genişletebilirsiniz.
+
+<details>
+<summary><b>👉 [TIKLA & GENİŞLET] API Endpoint'lerini ve Ham JSON Yanıtlarını Gör</b></summary>
+<br/>
+
+**Base URL:** `https://furkanaslan.vercel.app/api/v1`
+
+| # | Endpoint | Metot | Açıklama |
+|---|---|:---:|---|
+| 1 | `/kimdir/furkan` | `GET` | Furkan kimdir? Genel geliştirici özeti ve mimari odağı |
+| 2 | `/yetenekler` | `GET` | Kullandığı tüm teknolojiler, diller, kütüphaneler ve araçlar |
+| 3 | `/projeler` | `GET` | Geliştirdiği öne çıkan web, mobil, otomasyon ve açık kaynak projeleri |
+| 4 | `/iletisim` | `GET` | Web sitesi ve tüm dijital kanalların bağlantıları |
+
+<br/>
+
+---
+
+### 1 · `GET /api/v1/kimdir/furkan`
+
+**📤 HTTP Request**
 ```http
 GET /api/v1/kimdir/furkan HTTP/1.1
 Host: furkanaslan.vercel.app
@@ -42,66 +155,46 @@ Accept: application/json
 User-Agent: Merakli-Ziyaretci/1.0
 ```
 
-### 📥 Response
-
-![Status](https://img.shields.io/badge/Status-200_OK-2EA043?style=flat-square) ![Time](https://img.shields.io/badge/Time-42_ms-0E7AFE?style=flat-square) ![Size](https://img.shields.io/badge/Size-1.1_KB-FF6C37?style=flat-square)
-
-`Body` `Cookies` `Headers (5)` `Test Results (4/4)`
-
+**📥 HTTP Response**
 ```json
 {
   "success": true,
   "status": 200,
-  "message": "Furkan kimdir? İşte cevap 👋",
+  "message": "Furkan kimdir? İşte geliştirici profili 👋",
   "data": {
     "name": "Furkan Aslan",
     "username": "Furkanaslnn",
-    "title": "Mid-Level Full-Stack Yazılım Geliştirici",
+    "title": "Full-Stack Yazılım Geliştirici & Builder",
     "location": "Samsun, Türkiye",
-    "summary": "Küçük işletmelerden kurumsal yapılara kadar uzanan projelerde uçtan uca sorumluluk alıyorum. React, Next.js ve Node.js ekosistemlerinde web ve mobil uygulamalar geliştirirken sunucu mimarisini (Docker, Nginx, VPS) ve deployment süreçlerini bizzat kuruyorum. Yazılım süreçlerini otomasyon ve yapay zeka entegrasyonlarıyla hızlandırıyor; teknik bilgimi SEO, büyüme stratejileri ve güçlü UI/UX standartlarıyla birleştirerek kullanıcı odaklı ve ticari değer üreten dijital ürünler inşa ediyorum.",
+    "summary": "React, Next.js ve Node.js ekosistemlerinde web ve mobil platformlar inşa eden, Docker ve Linux VPS ile sunucu altyapısını kuran, otomasyon ve yapay zeka entegrasyonlarıyla çalışan dijital ürünler geliştiren yazılımcı.",
     "focus": [
       "Full-Stack Web & Mobil",
-      "Sunucu Mimarisi & Deployment",
+      "Sunucu Mimarisi & DevOps",
       "Otomasyon & Yapay Zeka",
-      "UI/UX & SEO"
+      "UI/UX & Performans"
     ]
   },
   "meta": {
     "version": "1.0.0",
-    "endpoints": ["/yetenekler", "/deneyim", "/egitim", "/sertifikalar", "/iletisim"]
+    "endpoints": [
+      "/yetenekler",
+      "/projeler",
+      "/iletisim"
+    ]
   }
 }
 ```
 
-**Yanıt alanları**
-
-| Alan | Açıklama |
-|---|---|
-| `success` | İstek başarılı mı? `true` = evet |
-| `status` | Durum kodu. `200` = her şey yolunda |
-| `message` | Kısa bilgi mesajı |
-| `data` | Asıl bilgi burada: isim, unvan, özet ve odak alanları |
-| `meta` | Ek bilgi: sürüm numarası ve diğer endpoint'lerin listesi |
-
-<details open>
-<summary><b>Headers (5)</b></summary>
-
-_Cevapla birlikte gelen ek bilgiler: format, kullanılan teknolojiler ve geliştirici._
+<details>
+<summary>Headers & Test Sonuçları</summary>
 
 ```http
 HTTP/1.1 200 OK
 Content-Type: application/json; charset=utf-8
 X-Powered-By: React, Next.js, Node.js
-X-Deployed-With: Docker, Nginx, VPS
+X-Deployed-With: Docker, Nginx, Linux VPS
 X-Developer: Furkan Aslan
 ```
-
-</details>
-
-<details open>
-<summary><b>Test Results (4/4)</b></summary>
-
-_Cevabın beklenen özellikleri taşıyıp taşımadığını kontrol eden testler._
 
 ```text
 PASS  Status code is 200
@@ -109,340 +202,111 @@ PASS  Docker, Nginx ve VPS ile deployment hazır
 PASS  Otomasyon ve yapay zeka entegrasyonları çalışıyor
 PASS  UI/UX ve SEO standartları karşılanıyor
 ```
-
 </details>
-
-### 👁️ Visualize
-
-> JSON'daki cevabın işlenmiş, okunabilir hali.
-
-<div align="center">
-
-<h3>👋 Furkan Aslan <sub>@Furkanaslnn</sub></h3>
-
-**Mid-Level Full-Stack Yazılım Geliştirici** · 📍 Samsun, Türkiye
-
-</div>
-
-> Küçük işletmelerden kurumsal yapılara kadar uzanan projelerde uçtan uca sorumluluk alıyorum. React, Next.js ve Node.js ekosistemlerinde web ve mobil uygulamalar geliştirirken sunucu mimarisini (Docker, Nginx, VPS) ve deployment süreçlerini bizzat kuruyorum. Yazılım süreçlerini otomasyon ve yapay zeka entegrasyonlarıyla hızlandırıyor; teknik bilgimi SEO, büyüme stratejileri ve güçlü UI/UX standartlarıyla birleştirerek kullanıcı odaklı ve ticari değer üreten dijital ürünler inşa ediyorum.
-
-**Odak alanları**
-
-![Full-Stack](https://img.shields.io/badge/Full--Stack_Web_%26_Mobil-FF6C37?style=for-the-badge) ![Sunucu](https://img.shields.io/badge/Sunucu_Mimarisi_%26_Deployment-0E7AFE?style=for-the-badge) ![AI](https://img.shields.io/badge/Otomasyon_%26_Yapay_Zeka-8A2BE2?style=for-the-badge) ![UIUX](https://img.shields.io/badge/UI%2FUX_%26_SEO-2EA043?style=for-the-badge)
-
-**Diğer endpoint'ler (`meta`)**
-
-[`/yetenekler`](#yetenekler) · [`/deneyim`](#deneyim) · [`/egitim`](#egitim) · [`/sertifikalar`](#sertifikalar) · [`/iletisim`](#iletisim)
 
 ---
 
-<a id="yetenekler"></a>
+### 2 · `GET /api/v1/yetenekler`
 
-## 2 · Yetenekler
-
-> 📝 **Ne işe yarar?** Furkan'ın kullandığı teknolojileri ve araçları kategorilere ayırarak listeler.
->
-> 📦 **Ne döner?** Frontend & mobil, backend & veritabanı, DevOps, otomasyon & yapay zeka ve metodoloji listeleri.
-
-### 📤 Request
-
+**📤 HTTP Request**
 ```http
 GET /api/v1/yetenekler HTTP/1.1
 Host: furkanaslan.vercel.app
 Accept: application/json
 ```
 
-### 📥 Response
-
-![Status](https://img.shields.io/badge/Status-200_OK-2EA043?style=flat-square) ![Time](https://img.shields.io/badge/Time-38_ms-0E7AFE?style=flat-square) ![Size](https://img.shields.io/badge/Size-1.0_KB-FF6C37?style=flat-square)
-
+**📥 HTTP Response**
 ```json
 {
   "success": true,
   "status": 200,
   "data": {
-    "frontend_mobil": ["JavaScript", "TypeScript", "React.js", "Next.js", "React Native", "Vite", "Redux", "TailwindCSS", "HTML5", "CSS3", "Figma", "UI/UX"],
-    "backend_veritabani": ["Node.js", "Python", "REST API Entegrasyonları", "MySQL", "SQL", "NoSQL", "Firebase"],
-    "devops_sistem": ["Docker", "Nginx", "VPS Yönetimi", "Git / Versiyon Kontrolü"],
-    "otomasyon_yapay_zeka": ["n8n", "AI Chatbot / Instagram Bot Entegrasyonları", "Yapay Zeka Destekli Yazılım Geliştirme", "SEO Optimizasyonu", "Meta Ads", "Google Analytics"],
-    "metodoloji": ["Agile", "Scrum", "Proje Yönetimi", "Problem Çözme", "Takım Çalışması"]
+    "frontend_mobil": [
+      "JavaScript", "TypeScript", "React.js", "Next.js", "React Native",
+      "Vite", "Redux Toolkit", "TailwindCSS", "HTML5", "CSS3", "Figma", "UI/UX"
+    ],
+    "backend_veritabani": [
+      "Node.js", "Python", "REST API Mimarisi",
+      "MySQL", "PostgreSQL", "SQL", "Firebase", "NoSQL"
+    ],
+    "devops_sunucu": [
+      "Docker", "Nginx", "Linux VPS Yönetimi", "Git", "GitHub Actions"
+    ],
+    "otomasyon_yapay_zeka": [
+      "n8n İş Akışları", "AI Chatbot Entegrasyonları",
+      "LLM API Entegrasyonu", "SEO Optimizasyonu", "Google Analytics"
+    ]
   }
 }
 ```
 
-### 👁️ Visualize
-
-**Frontend & Mobil**
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vite,redux,tailwind,html,css,figma" />
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![UI/UX](https://img.shields.io/badge/UI%2FUX-FF6C37?style=flat-square)
-
-**Backend & Veritabanı**
-
-<img src="https://skillicons.dev/icons?i=nodejs,py,mysql,firebase" />
-
-![REST API](https://img.shields.io/badge/REST_API-0E7AFE?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square) ![NoSQL](https://img.shields.io/badge/NoSQL-47A248?style=flat-square)
-
-**DevOps & Sistem**
-
-<img src="https://skillicons.dev/icons?i=docker,nginx,git" />
-
-![VPS](https://img.shields.io/badge/VPS_Yönetimi-2EA043?style=flat-square)
-
-**Otomasyon & Yapay Zeka**
-
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) ![AI Chatbot](https://img.shields.io/badge/AI_Chatbot-8A2BE2?style=for-the-badge&logo=openai&logoColor=white) ![Instagram Bot](https://img.shields.io/badge/Instagram_Bot-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![SEO](https://img.shields.io/badge/SEO-2EA043?style=for-the-badge&logo=googlesearchconsole&logoColor=white) ![Meta Ads](https://img.shields.io/badge/Meta_Ads-0866FF?style=for-the-badge&logo=meta&logoColor=white) ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
-
-**Metodoloji & Süreç Yönetimi**
-
-![Agile](https://img.shields.io/badge/Agile-0E7AFE?style=for-the-badge) ![Scrum](https://img.shields.io/badge/Scrum-FF6C37?style=for-the-badge) ![Proje Yönetimi](https://img.shields.io/badge/Proje_Yönetimi-2EA043?style=for-the-badge) ![Problem Çözme](https://img.shields.io/badge/Problem_Çözme-8A2BE2?style=for-the-badge) ![Takım Çalışması](https://img.shields.io/badge/Takım_Çalışması-D14836?style=for-the-badge)
-
 ---
 
-<a id="deneyim"></a>
+### 3 · `GET /api/v1/projeler`
 
-## 3 · Deneyim
-
-> 📝 **Ne işe yarar?** Furkan'ın çalıştığı yerleri ve stajlarını, rolleriyle ve tarihleriyle birlikte gösterir.
->
-> 📦 **Ne döner?** 4 kayıt: şirket, sektör, rol, çalışma dönemi ve yaptığı işlerin özeti.
-
-### 📤 Request
-
+**📤 HTTP Request**
 ```http
-GET /api/v1/deneyim HTTP/1.1
+GET /api/v1/projeler HTTP/1.1
 Host: furkanaslan.vercel.app
 Accept: application/json
 ```
 
-### 📥 Response
-
-![Status](https://img.shields.io/badge/Status-200_OK-2EA043?style=flat-square) ![Time](https://img.shields.io/badge/Time-40_ms-0E7AFE?style=flat-square) ![Size](https://img.shields.io/badge/Size-1.3_KB-FF6C37?style=flat-square)
-
+**📥 HTTP Response**
 ```json
 {
   "success": true,
   "status": 200,
-  "count": 4,
+  "count": 5,
   "data": [
     {
-      "company": "NGSTech",
-      "sector": "Yazılım Geliştirme Firması",
-      "role": "Full-Stack Yazılım Geliştirici",
-      "period": "08/2025 – 08/2026",
-      "highlights": [
-        "Üniversiteler, belediyeler ve özel sektör firmaları için uçtan uca yazılım çözümleri",
-        "Mimari tasarımdan sunucu kurulumuna projelerin tüm yaşam döngüsünde aktif rol",
-        "Yapay zekanın geliştirme sürecinde aktif asistan olarak kullanılması"
-      ]
+      "name": "CV Dijital",
+      "type": "Açık Kaynak Web Uygulaması",
+      "stack": ["Next.js 16", "TypeScript", "TailwindCSS v4", "JSON CMS"],
+      "description": "ATS uyumlu, akıllı A4 sayfalama hesaplayan ve anlık önizleme sunan modern CV oluşturucu.",
+      "url": "https://github.com/orangehatdigital-code/CVDigital"
     },
     {
-      "company": "Whyblue",
-      "sector": "Dijital Reklam Ajansı",
-      "role": "Dijital Proje Yöneticisi & Geliştirici",
-      "period": "01/2026 – 08/2026",
-      "highlights": [
-        "Kurumsal markaların yazılım gereksinimleri ve dijital pazarlama operasyonlarının yönetimi",
-        "Yazılım geliştirmenin kullanıcı deneyimi ve dijital büyüme hedefleriyle birleştirilmesi"
-      ]
+      "name": "Orange Hat Digital",
+      "type": "Yazılım Stüdyosu & Platform",
+      "stack": ["Next.js", "React", "Node.js", "Docker", "Nginx"],
+      "description": "Fikir aşamasından yayına kadar uçtan uca modern web, mobil ve otomasyon çözümleri.",
+      "url": "https://orangehatdigital.com.tr"
     },
     {
-      "company": "Mobillium",
-      "sector": "Digital Product & Experience Studio",
-      "role": "Android Geliştirici (Staj)",
-      "period": "07/2024 – 08/2024",
-      "location": "İstanbul",
-      "highlights": [
-        "Android uygulama geliştirme temelleri"
-      ]
+      "name": "QR Menü & Sipariş Sistemi",
+      "type": "Restoran & Kafe Çözümü",
+      "stack": ["React", "Node.js", "TailwindCSS", "REST API"],
+      "description": "Kafeler ve restoranlar için hızlı, dinamik ve mobil öncelikli akıllı menü platformu."
     },
     {
-      "company": "CyberNova",
-      "sector": "Siber Güvenlik Şirketi",
-      "role": "Siber Güvenlik ve Yazılım Geliştirici (Staj)",
-      "period": "08/2024 – 09/2024",
-      "location": "Samsun",
-      "highlights": [
-        "Kriptografi ve uygulama geliştirme",
-        "Güvenlik temelli algoritmaların gerçek projelere entegrasyonu"
-      ]
+      "name": "n8n & AI Chatbot Otomasyonları",
+      "type": "Otomasyon & Yapay Zeka",
+      "stack": ["n8n", "OpenAI API", "Webhooks", "Node.js"],
+      "description": "Tekrarlayan iş süreçlerini ve müşteri iletişimini otomatikleştiren çok kanallı bot sistemleri."
+    },
+    {
+      "name": "Google Play Mobil Uygulamaları",
+      "type": "Mobil Uygulama",
+      "stack": ["React Native", "Firebase", "Android"],
+      "description": "Kullanıcı deneyimi odaklı, mağazada canlıda bulunan mobil çözümler.",
+      "url": "https://play.google.com/store/apps/developer?id=OrangeHat+Digital&hl=tr"
     }
   ]
 }
 ```
 
-### 👁️ Visualize
-
-| Şirket | Rol | Dönem | Konum |
-|---|---|---|---|
-| **NGSTech**<br><sub>Yazılım Geliştirme Firması</sub> | Full-Stack Yazılım Geliştirici | 08/2025 – 08/2026 | — |
-| **Whyblue**<br><sub>Dijital Reklam Ajansı</sub> | Dijital Proje Yöneticisi & Geliştirici | 01/2026 – 08/2026 | — |
-| **Mobillium**<br><sub>Digital Product & Experience Studio</sub> | Android Geliştirici (Staj) | 07/2024 – 08/2024 | İstanbul |
-| **CyberNova**<br><sub>Siber Güvenlik Şirketi</sub> | Siber Güvenlik ve Yazılım Geliştirici (Staj) | 08/2024 – 09/2024 | Samsun |
-
-**NGSTech**
-- Üniversiteler, belediyeler ve özel sektör firmaları için uçtan uca yazılım çözümleri
-- Mimari tasarımdan sunucu kurulumuna projelerin tüm yaşam döngüsünde aktif rol
-- Yapay zekanın geliştirme sürecinde aktif asistan olarak kullanılması
-
-**Whyblue**
-- Kurumsal markaların yazılım gereksinimleri ve dijital pazarlama operasyonlarının yönetimi
-- Yazılım geliştirmenin kullanıcı deneyimi ve dijital büyüme hedefleriyle birleştirilmesi
-
-**Mobillium**
-- Android uygulama geliştirme temelleri
-
-**CyberNova**
-- Kriptografi ve uygulama geliştirme
-- Güvenlik temelli algoritmaların gerçek projelere entegrasyonu
-
 ---
 
-<a id="egitim"></a>
+### 4 · `GET /api/v1/iletisim`
 
-## 4 · Eğitim
-
-> 📝 **Ne işe yarar?** Furkan'ın üniversite eğitimini gösterir.
->
-> 📦 **Ne döner?** Bölüm, üniversite, şehir, mezuniyet tarihi ve eğitimde odaklandığı konular.
-
-### 📤 Request
-
-```http
-GET /api/v1/egitim HTTP/1.1
-Host: furkanaslan.vercel.app
-Accept: application/json
-```
-
-### 📥 Response
-
-![Status](https://img.shields.io/badge/Status-200_OK-2EA043?style=flat-square) ![Time](https://img.shields.io/badge/Time-35_ms-0E7AFE?style=flat-square) ![Size](https://img.shields.io/badge/Size-0.3_KB-FF6C37?style=flat-square)
-
-```json
-{
-  "success": true,
-  "status": 200,
-  "data": {
-    "degree": "Bilgisayar Mühendisliği",
-    "university": "Zonguldak Bülent Ecevit Üniversitesi",
-    "city": "Zonguldak",
-    "graduated": "06/2025",
-    "focus": ["Yazılım geliştirme", "Veri güvenliği", "Proje yönetimi"]
-  }
-}
-```
-
-### 👁️ Visualize
-
-| | |
-|---|---|
-| 🎓 **Bölüm** | Bilgisayar Mühendisliği |
-| 🏫 **Üniversite** | Zonguldak Bülent Ecevit Üniversitesi |
-| 📍 **Şehir** | Zonguldak |
-| 📅 **Mezuniyet** | 06/2025 |
-
-![Yazılım geliştirme](https://img.shields.io/badge/Yazılım_geliştirme-FF6C37?style=for-the-badge) ![Veri güvenliği](https://img.shields.io/badge/Veri_güvenliği-0E7AFE?style=for-the-badge) ![Proje yönetimi](https://img.shields.io/badge/Proje_yönetimi-2EA043?style=for-the-badge)
-
----
-
-<a id="sertifikalar"></a>
-
-## 5 · Sertifikalar
-
-> 📝 **Ne işe yarar?** Furkan'ın aldığı sertifikaları ve katıldığı eğitim ve girişimcilik programlarını listeler.
->
-> 📦 **Ne döner?** 4 kayıt: program adı, tarihi, düzenleyen kurum ve içeriği.
-
-### 📤 Request
-
-```http
-GET /api/v1/sertifikalar HTTP/1.1
-Host: furkanaslan.vercel.app
-Accept: application/json
-```
-
-### 📥 Response
-
-![Status](https://img.shields.io/badge/Status-200_OK-2EA043?style=flat-square) ![Time](https://img.shields.io/badge/Time-37_ms-0E7AFE?style=flat-square) ![Size](https://img.shields.io/badge/Size-1.0_KB-FF6C37?style=flat-square)
-
-```json
-{
-  "success": true,
-  "status": 200,
-  "count": 4,
-  "data": [
-    {
-      "name": "Siber Vatan BootCamp",
-      "date": "Temmuz 2023",
-      "location": "Antalya",
-      "detail": "10 günlük yoğun eğitim; Trendyol, Barikat, Cyrops ve BG-TEK yöneticilerinin konferans ve etkinlikleri"
-    },
-    {
-      "name": "Siber Vatan Eğitim Sertifikası",
-      "date": "Kasım 2022 – Eylül 2023",
-      "modules": [
-        { "provider": "CYROPS", "topic": "Linux ve CEH" },
-        { "provider": "BG-TEK", "topic": "Sızma Testi ve Yetki Yükseltme" },
-        { "provider": "BARİKAT", "topic": "Tersine Mühendislik" },
-        { "provider": "Siber Vatan", "topic": "Web Güvenliği" }
-      ]
-    },
-    {
-      "name": "STARTUP 2025 Girişimcilik Maratonu",
-      "date": "25-27 Nisan 2025",
-      "organizer": "Zonguldak Teknopark & Marmara Teknokent",
-      "role": "Katılımcı"
-    },
-    {
-      "name": "KOSGEB Girişimcilik Eğitimi",
-      "date": "03.12.2024",
-      "format": "Online"
-    }
-  ]
-}
-```
-
-### 👁️ Visualize
-
-| Program | Tarih | Detay |
-|---|---|---|
-| **Siber Vatan BootCamp** | Temmuz 2023 | 📍 Antalya · 10 günlük yoğun eğitim; Trendyol, Barikat, Cyrops ve BG-TEK yöneticilerinin konferans ve etkinlikleri |
-| **Siber Vatan Eğitim Sertifikası** | Kasım 2022 – Eylül 2023 | 4 modül (aşağıda) |
-| **STARTUP 2025 Girişimcilik Maratonu** | 25-27 Nisan 2025 | Zonguldak Teknopark & Marmara Teknokent · Katılımcı |
-| **KOSGEB Girişimcilik Eğitimi** | 03.12.2024 | Online |
-
-**Siber Vatan Eğitim Sertifikası modülleri**
-
-| Sağlayıcı | Konu |
-|---|---|
-| CYROPS | Linux ve CEH |
-| BG-TEK | Sızma Testi ve Yetki Yükseltme |
-| BARİKAT | Tersine Mühendislik |
-| Siber Vatan | Web Güvenliği |
-
----
-
-<a id="iletisim"></a>
-
-## 6 · İletişim
-
-> 📝 **Ne işe yarar?** Furkan'a nereden ulaşabileceğini gösterir.
->
-> 📦 **Ne döner?** Web sitesi, GitHub, LinkedIn ve Google Play adresleri.
-
-### 📤 Request
-
+**📤 HTTP Request**
 ```http
 GET /api/v1/iletisim HTTP/1.1
 Host: furkanaslan.vercel.app
 Accept: application/json
 ```
 
-### 📥 Response
-
-![Status](https://img.shields.io/badge/Status-200_OK-2EA043?style=flat-square) ![Time](https://img.shields.io/badge/Time-33_ms-0E7AFE?style=flat-square) ![Size](https://img.shields.io/badge/Size-0.4_KB-FF6C37?style=flat-square)
-
+**📥 HTTP Response**
 ```json
 {
   "success": true,
@@ -456,42 +320,18 @@ Accept: application/json
 }
 ```
 
-### 👁️ Visualize
-
-<div align="center">
-
-[![WebSite](https://img.shields.io/badge/WebSite-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://furkanaslan.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Furkanaslnn)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkanaslnn)
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/developer?id=OrangeHat+Digital&hl=tr)
-
-<br />
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,py,vite,redux,tailwind,html,css,figma,docker,nginx,git,mysql,firebase,postman&perline=9" />
-
-</div>
-
----
-
-## 📊 GitHub İstatistikleri
-
-> 📈 Bu bölüm canlı veridir: GitHub hesabından otomatik çekilir ve kendiliğinden güncellenir.
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Furkanaslnn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furkanaslnn&theme=tokyonight&hide_border=true&layout=compact" height="165" />
-
-<img src="https://streak-stats.demolab.com?user=Furkanaslnn&theme=tokyonight&hide_border=true" />
-
-</div>
+</details>
 
 ---
 
 <div align="center">
 
-`GET /api/v1/kimdir/furkan` endpoint'ine şimdiye kadar atılan istek sayısı:
+`GET /api/v1/kimdir/furkan` endpoint'ine şimdiye kadar atılan toplam istek:
 
 [![Ziyaretçi Sayısı](https://visitcount.itsvg.in/api?id=Furkanaslnn&icon=5&color=3)](https://visitcount.itsvg.in)
+
+<br/>
+
+<sub>© 2026 Furkan Aslan • Built with Passion & Code</sub>
 
 </div>
