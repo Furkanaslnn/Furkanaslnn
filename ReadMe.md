@@ -68,32 +68,7 @@
 
 <br/>
 
-### 1. 📄 [CV Dijital](https://github.com/orangehatdigital-code/CVDigital) — Akıllı A4 CV Oluşturma Platformu
-> **Teknolojiler:** `Next.js 16` • `TypeScript` • `TailwindCSS v4` • `JSON CMS` • `@media print`  
-> Geliştiricilerin ve profesyonellerin ATS (Aday Takip Sistemi) uyumlu, milimetrik A4 sayfalama hesaplayan ve anlık canlı önizleme sunan açık kaynaklı CV oluşturucu platformu.
-* 📄 **Akıllı Sayfalama Motoru:** Sayfa taşmalarını ve blok yüksekliklerini tarayıcı DPI'ına göre dinamik hesaplar.
-* 🎓 **Çift Şablon Desteği:** Tek tıkla Modern Tech ve Klasik Harvard ATS şablonları arasında geçiş.
-* 📁 **JSON Dosya Tabanlı:** Verileri tarayıcı çerezine bağımlı olmadan doğrudan yerel JSON mimarisinde yönetir.
-
-<br/>
-
-### 2. 👒 [Orange Hat Digital](https://orangehatdigital.com.tr) — Yazılım & Dijital Ürün Stüdyosu
-> **Teknolojiler:** `Next.js` • `React` • `Node.js` • `Docker` • `Nginx` • `TailwindCSS`  
-> İşletmeler ve girişimler için fikir aşamasından yayına kadar uçtan uca modern web, mobil ve otomasyon altyapısı sunan yazılım platformu.
-* 🌐 **Kurumsal & SaaS Mimarisi:** Yüksek hızlı, mobil uyumlu ve SEO puanları tam puan olan modern web platformları.
-* ⚙️ **Uçtan Uca Deployment:** VPS üzerinde Dockerize edilmiş, Nginx ters vekil sunuculu güvenli prodüksiyon altyapısı.
-
-<br/>
-
-### 3. 🍽️ Restoran & Kafe Akıllı QR Menü Sistemi
-> **Teknolojiler:** `React` • `Node.js` • `TailwindCSS` • `REST API` • `Real-Time Data`  
-> Yeme-içme sektörü için anlık fiyat/ürün güncellenebilen, kategorize edilmiş, hızlı ve mobil öncelikli dijital menü çözümü.
-* ⚡ **Anında Erişim:** Müşterilerin uygulama indirmeden saniyeler içinde menüye ve ürün detaylarına ulaşması.
-* 🛠️ **Yönetim Paneli:** İşletmelerin tek tıkla ürün ekleyip çıkarabileceği dinamik yönetim arayüzü.
-
-<br/>
-
-### 4. 🤖 Çok Kanallı AI Chatbot & n8n İş Akışı Otomasyonu
+### 1. 🤖 Çok Kanallı AI Chatbot & n8n İş Akışı Otomasyonu
 > **Teknolojiler:** `n8n` • `OpenAI API` • `Instagram Graph API` • `Webhooks` • `Node.js`  
 > İşletmelerin tekrarlayan müşteri iletişimlerini ve veri giriş süreçlerini sıfıra indiren akıllı yapay zeka otomasyonları.
 * 💬 **Yapay Zeka Destekli Yanıt:** Müşteri sorularını doğal dille anlayan ve 7/24 anında doğru bilgi sunan akıllı bot mimarisi.
@@ -101,9 +76,36 @@
 
 <br/>
 
-### 5. 📱 [Google Play Mobil Uygulamaları](https://play.google.com/store/apps/developer?id=OrangeHat+Digital&hl=tr)
+### 2. 🍽️ Restoran & Kafe Akıllı QR Menü Sistemi
+> **Teknolojiler:** `React` • `Node.js` • `TailwindCSS` • `REST API` • `Real-Time Data`  
+> Yeme-içme sektörü için anlık fiyat/ürün güncellenebilen, kategorize edilmiş, hızlı ve mobil öncelikli dijital menü çözümü.
+* ⚡ **Anında Erişim:** Müşterilerin uygulama indirmeden saniyeler içinde menüye ve ürün detaylarına ulaşması.
+* 🛠️ **Yönetim Paneli:** İşletmelerin tek tıkla ürün ekleyip çıkarabileceği dinamik yönetim arayüzü.
+
+<br/>
+
+### 3. 📱 [Google Play Mobil Uygulamaları](https://play.google.com/store/apps/developer?id=OrangeHat+Digital&hl=tr)
 > **Teknolojiler:** `React Native` • `REST API` • `Firebase` • `Android Studio`  
 > Kullanıcı odaklı arayüzlere ve akıcı performansa sahip, Google Play Store üzerinde canlıda olan mobil uygulamalar.
+* 📲 **Mağaza Yayını:** Google Play üzerinde canlıda olan, gerçek kullanıcı deneyimine sahip mobil çözümler.
+* ⚡ **Modern Mobil Mimari:** React Native ve Firebase ile yüksek performanslı, duyarlı bileşen yapısı.
+
+<br/>
+
+### 4. 👒 [Orange Hat Digital](https://orangehatdigital.com.tr) — Yazılım & Dijital Ürün Stüdyosu
+> **Teknolojiler:** `Next.js` • `React` • `Node.js` • `Docker` • `Nginx` • `TailwindCSS`  
+> İşletmeler ve girişimler için fikir aşamasından yayına kadar uçtan uca modern web, mobil ve otomasyon altyapısı sunan yazılım platformu.
+* 🌐 **Kurumsal & SaaS Mimarisi:** Yüksek hızlı, mobil uyumlu ve SEO puanları tam puan olan modern web platformları.
+* ⚙️ **Uçtan Uca Deployment:** VPS üzerinde Dockerize edilmiş, Nginx ters vekil sunuculu güvenli prodüksiyon altyapısı.
+
+<br/>
+
+### 5. 📄 [CV Dijital](https://github.com/orangehatdigital-code/CVDigital) — Akıllı A4 CV Oluşturma Platformu
+> **Teknolojiler:** `Next.js 16` • `TypeScript` • `TailwindCSS v4` • `JSON CMS` • `@media print`  
+> Geliştiricilerin ve profesyonellerin ATS (Aday Takip Sistemi) uyumlu, milimetrik A4 sayfalama hesaplayan ve anlık canlı önizleme sunan açık kaynaklı CV oluşturucu platformu.
+* 📄 **Akıllı Sayfalama Motoru:** Sayfa taşmalarını ve blok yüksekliklerini tarayıcı DPI'ına göre dinamik hesaplar.
+* 🎓 **Çift Şablon Desteği:** Tek tıkla Modern Tech ve Klasik Harvard ATS şablonları arasında geçiş.
+* 📁 **JSON Dosya Tabanlı:** Verileri tarayıcı çerezine bağımlı olmadan doğrudan yerel JSON mimarisinde yönetir.
 
 ---
 
@@ -124,12 +126,27 @@
 
 <a id="api-dokumantasyonu"></a>
 
-## 📡 API Dokümantasyonu & Ham JSON Cevapları
+<div align="center">
 
-> 💡 **Geliştiriciler İçin:** Bu profil aynı zamanda sanal bir REST API mimarisi gibi kurgulanmıştır. İstekleri (Request), ham JSON yanıtlarını (Response) ve sistem testlerini görüntülemek için aşağıdaki paneli genişletebilirsiniz.
+## 📡 Geliştirici Modu: REST API & JSON Dokümantasyonu
+
+> 💡 *Bu profil aynı zamanda sanal bir REST API mimarisi şeklinde kurgulanmıştır.*
+
+</div>
+
+<br/>
 
 <details>
-<summary><b>👉 [TIKLA & GENİŞLET] API Endpoint'lerini ve Ham JSON Yanıtlarını Gör</b></summary>
+<summary align="center">
+  <br/>
+  <kbd>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <font size="4"><b>📡 &nbsp; [ TIKLA & GENİŞLET ] &nbsp; REST API DOKÜMANTASYONU VE HAM JSON YANITLARI &nbsp; 🔽</b></font>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </kbd>
+  <br/><br/>
+</summary>
+
 <br/>
 
 **Base URL:** `https://furkanaslan.vercel.app/api/v1`
@@ -259,11 +276,23 @@ Accept: application/json
   "count": 5,
   "data": [
     {
-      "name": "CV Dijital",
-      "type": "Açık Kaynak Web Uygulaması",
-      "stack": ["Next.js 16", "TypeScript", "TailwindCSS v4", "JSON CMS"],
-      "description": "ATS uyumlu, akıllı A4 sayfalama hesaplayan ve anlık önizleme sunan modern CV oluşturucu.",
-      "url": "https://github.com/orangehatdigital-code/CVDigital"
+      "name": "n8n & AI Chatbot Otomasyonları",
+      "type": "Otomasyon & Yapay Zeka",
+      "stack": ["n8n", "OpenAI API", "Webhooks", "Node.js"],
+      "description": "Tekrarlayan iş süreçlerini ve müşteri iletişimini otomatikleştiren çok kanallı bot sistemleri."
+    },
+    {
+      "name": "QR Menü & Sipariş Sistemi",
+      "type": "Restoran & Kafe Çözümü",
+      "stack": ["React", "Node.js", "TailwindCSS", "REST API"],
+      "description": "Kafeler ve restoranlar için hızlı, dinamik ve mobil öncelikli akıllı menü platformu."
+    },
+    {
+      "name": "Google Play Mobil Uygulamaları",
+      "type": "Mobil Uygulama",
+      "stack": ["React Native", "Firebase", "Android"],
+      "description": "Kullanıcı deneyimi odaklı, mağazada canlıda bulunan mobil çözümler.",
+      "url": "https://play.google.com/store/apps/developer?id=OrangeHat+Digital&hl=tr"
     },
     {
       "name": "Orange Hat Digital",
@@ -273,23 +302,11 @@ Accept: application/json
       "url": "https://orangehatdigital.com.tr"
     },
     {
-      "name": "QR Menü & Sipariş Sistemi",
-      "type": "Restoran & Kafe Çözümü",
-      "stack": ["React", "Node.js", "TailwindCSS", "REST API"],
-      "description": "Kafeler ve restoranlar için hızlı, dinamik ve mobil öncelikli akıllı menü platformu."
-    },
-    {
-      "name": "n8n & AI Chatbot Otomasyonları",
-      "type": "Otomasyon & Yapay Zeka",
-      "stack": ["n8n", "OpenAI API", "Webhooks", "Node.js"],
-      "description": "Tekrarlayan iş süreçlerini ve müşteri iletişimini otomatikleştiren çok kanallı bot sistemleri."
-    },
-    {
-      "name": "Google Play Mobil Uygulamaları",
-      "type": "Mobil Uygulama",
-      "stack": ["React Native", "Firebase", "Android"],
-      "description": "Kullanıcı deneyimi odaklı, mağazada canlıda bulunan mobil çözümler.",
-      "url": "https://play.google.com/store/apps/developer?id=OrangeHat+Digital&hl=tr"
+      "name": "CV Dijital",
+      "type": "Açık Kaynak Web Uygulaması",
+      "stack": ["Next.js 16", "TypeScript", "TailwindCSS v4", "JSON CMS"],
+      "description": "ATS uyumlu, akıllı A4 sayfalama hesaplayan ve anlık önizleme sunan modern CV oluşturucu.",
+      "url": "https://github.com/orangehatdigital-code/CVDigital"
     }
   ]
 }
